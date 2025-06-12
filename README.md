@@ -2,7 +2,7 @@
 ![Header](img/github-header.png)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Cyber+Security+Enthusiast;Linux+Enthusiast;Tech+Community+Builder;Lifelong+Learner&center=true&width=500&height=30" />
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Network+Engineer;Linux+Enthusiast;Tech+Community+Builder;Lifelong+Learner&center=true&width=500&height=30" />
 </p>
 
 ## 🚀 About Me
