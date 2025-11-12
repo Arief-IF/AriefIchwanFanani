@@ -1,5 +1,5 @@
 
-![Header](img)
+![Header](img/hi1.png)
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Network+Engineer;Linux+Enthusiast;Tech+Community+Builder;Lifelong+Learner&center=true&width=500&height=30" />
