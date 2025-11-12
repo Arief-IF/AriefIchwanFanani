@@ -9,9 +9,9 @@
 - 🔐 deputy leader of [NETS](https://www.instagram.com/nets.sttnf/) (Networking & Infrastructure STT-NF)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arief-IF/Arief-IF/main/dist/pacman-contribution-graph.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arief-IF/Arief-IF/main/dist/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Arief-IF/Arief-IF/main/dist/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arief-IF/AriefIchwanFanani/.github/workflows/pacman.yml">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arief-IF/AriefIchwanFanani/.github/workflows/pacman.yml">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Arief-IF/AriefIchwanFanani/.github/workflows/pacman.yml">
 </picture>
 
 #### 📈 Stats
