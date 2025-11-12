@@ -9,9 +9,9 @@
 - 🔐 deputy leader of [NETS](https://www.instagram.com/nets.sttnf/) (Networking & Infrastructure STT-NF)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FirmansyahDzakwanArifien/FirmansyahDzakwanArifien/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FirmansyahDzakwanArifien/FirmansyahDzakwanArifien/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/FirmansyahDzakwanArifien/FirmansyahDzakwanArifien/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arief-IF/Arief-IF/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arief-IF/Arief-IF/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Arief-IF/Arief-IF/output/pacman-contribution-graph.svg">
 </picture>
 
 ###
@@ -24,8 +24,8 @@
 
 #### 📈 Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AriefIchwanfanani&show_icons=true&theme=radical" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AriefIchwanfanani&layout=compact&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Arief-IF&show_icons=true&theme=radical" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arief-IF&layout=compact&theme=radical" height="150"/>
 </p>
 
 ## 🌱 Let's Connect!
@@ -33,3 +33,5 @@
 ![https://www.instagram.com/arief_ichwan.f/](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://www.linkedin.com/in/arief-ichwan-fanani/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 ---
+
+**Mohon konfirmasi:** Apakah Anda ingin menggunakan **`Arief-IF`** atau **`AriefIchwanfanani`** untuk tautan grafik kontribusi Anda? (Saya sarankan menggunakan **`Arief-IF`** karena itu adalah *username* yang terlihat di profil Anda).
