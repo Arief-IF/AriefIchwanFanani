@@ -8,7 +8,13 @@
 - 💼 Student in **STT Terpadu Nurul Fikri**
 - 🔐 deputy leader of [NETS](https://www.instagram.com/nets.sttnf/) (Networking & Infrastructure STT-NF)
 
-### 📊 GitHub Stats
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arief-IF/Arief-IF/main/dist/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arief-IF/Arief-IF/main/dist/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Arief-IF/Arief-IF/main/dist/pacman-contribution-graph.svg">
+</picture>
+
+#### 📈 Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Arief-IF&show_icons=true&theme=radical" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arief-IF&layout=compact&theme=radical" height="150"/>
