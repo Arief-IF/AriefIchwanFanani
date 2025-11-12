@@ -1,4 +1,4 @@
-![Hi I'm Arief Network Engineer](https://raw.githubusercontent.com/AriefIchwanfanani/AriefIchwanfanani/main/h1.png)
+![Header](hi1.png)
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Network+Engineer;Linux+Enthusiast;Tech+Community+Builder;Lifelong+Learner&center=true&width=500&height=30" />
