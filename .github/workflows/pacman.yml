@@ -2,12 +2,11 @@ name: Generate pacman animation
 
 on:
   schedule:
-    # Jalankan setiap 12 jam
-    - cron: "* */12 * * *"
-  workflow_dispatch:
+    - cron: "* */12 * * *" # Pemicu berdasarkan waktu
+  workflow_dispatch: # Pemicu manual (tanpa dash di depannya)
   push:
     branches:
-      - main
+      - main # Pemicu berdasarkan push ke main
 
 jobs:
   generate:
