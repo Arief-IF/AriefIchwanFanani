@@ -7,8 +7,7 @@
 
 ## 🚀 About Me
 - 💼 Student in **STT Terpadu Nurul Fikri**
-- 🔐 Lead of [NFSCC](https://www.instagram.com/nf.scc/) (Nurul Fikri Student Cyber Security Community)
-- 💡 Passionate about **Cyber Security, Web Development, and Open Source**
+- 🔐 deputy leader of [NETS](https://www.instagram.com/nets.sttnf/) (Networking & Infrastructure STT-NF)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FirmansyahDzakwanArifien/FirmansyahDzakwanArifien/output/pacman-contribution-graph-dark.svg">
@@ -35,6 +34,6 @@
 
 ## 🌱 Let's Connect!
 
-![https://www.instagram.com/fdzak01/](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![www.linkedin.com/in/firmansyah-dzakwan-arifien-90b1b8293](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![https://www.instagram.com/arief_ichwan.f/](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://www.linkedin.com/in/arief-ichwan-fanani/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 ---
