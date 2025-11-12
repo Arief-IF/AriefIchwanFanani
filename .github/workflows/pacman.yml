@@ -2,20 +2,24 @@ name: Generate pacman animation
 
 on:
   schedule:
-    - cron: "* */12 * * *" # Pemicu berdasarkan waktu
-  workflow_dispatch: # Pemicu manual (tanpa dash di depannya)
+    - cron: "* */12 * * *"
+  workflow_dispatch:
   push:
     branches:
-      - main # Pemicu berdasarkan push ke main
+      - main
 
 jobs:
   generate:
     permissions:
-      contents: write # Memberikan izin untuk commit file
+      contents: write
     runs-on: ubuntu-latest
     timeout-minutes: 5
 
     steps:
+      # LANGKAH PENTING: Checkout harus ada agar Action dapat mengakses dan mem-push file
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
       - name: Generate pacman-contribution-graph.svg
         uses: abozanona/pacman-contribution-graph@main
         with:
@@ -25,6 +29,6 @@ jobs:
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
-          build_dir: . # Mengambil file SVG dari folder root (tempat SVG dibuat)
+          build_dir: .
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
