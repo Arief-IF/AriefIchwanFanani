@@ -30,8 +30,6 @@
 
 ## 🌱 Let's Connect!
 
-![https://www.instagram.com/arief_ichwan.f/](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://www.linkedin.com/in/arief-ichwan-fanani/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/arief_ichwan.f/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arief-ichwan-fanani/)
 ---
-
-**Mohon konfirmasi:** Apakah Anda ingin menggunakan **`Arief-IF`** atau **`AriefIchwanfanani`** untuk tautan grafik kontribusi Anda? (Saya sarankan menggunakan **`Arief-IF`** karena itu adalah *username* yang terlihat di profil Anda).
