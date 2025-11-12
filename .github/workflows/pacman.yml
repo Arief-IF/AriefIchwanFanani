@@ -1,30 +1,36 @@
-name: Pacman Contribution Graph
+name: Generate Contribution SVG
 
 on:
   schedule:
-    - cron: '*/12 * * * *' # Jalankan setiap 12 jam
+    # Jalankan setiap 12 jam. Anda bisa ubah ini menjadi '0 */24 * * *' untuk harian
+    - cron: '*/12 * * * *'
   workflow_dispatch:
 
 jobs:
-  generate:
+  generate-graph:
     permissions:
-      contents: write
+      contents: write # Izin untuk melakukan commit
     runs-on: ubuntu-latest
     
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
+        with:
+          # Penting: Menggunakan GITHUB_TOKEN bawaan untuk checkout
+          token: ${{ secrets.GITHUB_TOKEN }}
 
-      # --- Action 1: Generate Snake/Pacman Graph ---
-      - uses: platane/snk@v3
+      # 1. Action untuk membuat SVG (menggantikan pacman bawaan)
+      # Catatan: Action snk/snake ini juga bisa menghasilkan grafik Pac-Man.
+      - name: Generate Snake/Pacman SVG
+        uses: platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          # Menentukan output disimpan di folder "dist"
+          # Path Output: akan membuat file di folder dist/
           outputs: dist/pacman-contribution-graph.svg
-            
-      # --- Action 2: Commit dan Push ke Branch Utama ---
-      - name: Commit and push changes
+
+      # 2. Action untuk melakukan Commit ke Branch Utama (main)
+      - name: Commit and Push Changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: Generate new Pacman graph
-          # Hanya commit file yang baru dibuat di folder dist/
-          file_pattern: dist/*.svg
+          commit_message: "chore(graph): update pacman svg"
+          # Hanya commit file yang ada di folder dist/
+          file_pattern: dist/pacman-contribution-graph.svg
